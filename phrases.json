@@ -1,0 +1,905 @@
+[
+  {
+    "text": "You are overcomplicating this",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "Let's simplify this and focus on the essentials."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "We can streamline this for better efficiency."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "This appears more complex than necessary."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "It is recommended to follow the established process."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Adherence to the standard protocol is required."
+      }
+    ]
+  },
+  {
+    "text": "That meeting sounds like a waste of my time",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I'd rather skip the meeting and focus on more important tasks."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "I'm not sure this meeting will be the best use of our time."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Is this meeting truly necessary?"
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "The meeting should proceed as scheduled."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Attendance at the meeting is mandatory."
+      }
+    ]
+  },
+  {
+    "text": "I told you so",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I mentioned this earlier."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "I did bring this to your attention previously."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "This was previously indicated."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "As previously stated, this was foreseeable."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "You were informed of this potential outcome."
+      }
+    ]
+  },
+  {
+    "text": "That sounds like a horrible idea",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I'm not sure this is the best approach."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "I have concerns about this approach."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "It appears this approach may not be effective."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "Further review of this approach is advised."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "This approach does not meet established standards."
+      }
+    ]
+  },
+  {
+    "text": "I already told you this",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I mentioned this before, just clarifying."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "As discussed earlier."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "This information has already been communicated."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "This matter has been previously addressed."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Prior notification was provided regarding this information."
+      }
+    ]
+  },
+  {
+    "text": "Can you answer all of the questions I asked and not just pick and choose one",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "Could you please answer all my questions?"
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "It would be helpful to have all my questions answered."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Please provide answers to all outstanding questions."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "Complete responses to all questions are expected."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "All questions must be addressed as per established protocol."
+      }
+    ]
+  },
+  {
+    "text": "Did you even read my email?",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "Just checking if you saw my email."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "Have you had a chance to review my email?"
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Confirmation of email receipt is requested."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "Please review the email sent previously."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Your prompt attention to the email sent is required."
+      }
+    ]
+  },
+  {
+    "text": "Stop bothering me",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I'd appreciate it if you could give me some space right now."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "I'm currently unavailable.  Please contact me later."
+
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "I am currently unavailable for further inquiries."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "Further contact at this time should be refrained from."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "All future inquiries should be directed through established channels."
+      }
+    ]
+  },
+    {
+    "text": "I don’t want to talk to you right now!",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "Can we talk later? I'm busy right now."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "I'm currently unavailable, can we connect later?"
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "I will be available for discussion later."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "Communication should be deferred to a later time."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Contact should be made through appropriate channels at the designated time."
+      }
+    ]
+  },
+  {
+    "text": "Do your job!",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I need you to take care of this."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "Please address this issue as part of your responsibilities."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Your attention to this matter is required."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "This matter falls under your purview and requires immediate action."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Fulfillment of your assigned duties is expected."
+      }
+    ]
+  },
+    {
+    "text": "That’s not my job",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "This isn't something I handle, but I can connect you with the right person."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "This falls outside my responsibilities, but I'm happy to direct you to someone who can help."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "This is outside the scope of my current duties."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "Addressing this matter is not within my assigned responsibilities."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "This task is not designated to my role within the organizational structure."
+      }
+    ]
+  },
+  {
+    "text": "Stop assigning me so many tasks if you want any of them to get done",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I'm overloaded. Can we prioritize tasks so I can focus on what's most important?"
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "My workload is quite full. Can we discuss task prioritization?"
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Prioritization of tasks is necessary due to current workload."
+
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "It is recommended that task assignments be reviewed and prioritized."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Adherence to established workload allocation procedures is required."
+      }
+    ]
+  },
+    {
+    "text": "Answer my emails",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "Please respond to my emails. I need those answers."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "I'm awaiting your responses to my emails."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Your responses to my prior emails are outstanding."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "A timely response to prior email correspondence is requested."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Responses to all correspondences are expected within the designated timeframe."
+      }
+    ]
+  },
+  {
+    "text": "This is not my problem",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "This isn't something I can help with, but maybe [Name] can."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "This issue falls outside my area of responsibility. I suggest contacting [Name]."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "[Name] is the appropriate point of contact for this issue."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "This matter should be directed to [Name] as per established protocol."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "All inquiries related to this matter should be directed to the designated personnel, [Name]."
+      }
+    ]
+  },
+  {
+    "text": "If you would have read the whole email you’d know the answer to this",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "The answer's in the email I sent. Please review it again."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "Please reread the email – it contains the information you're requesting."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "The requested details are included in the previous email communication."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "Review of the previous email is recommended."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "The information has already been disseminated via email."
+      }
+    ]
+  },
+  {
+    "text": "I have absolutely no idea what you are talking about",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I'm confused.  Can you clarify what you mean?"
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "I don't understand. Could you please rephrase?"
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Further clarification is needed."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "Please provide additional context for enhanced understanding."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "The provided information lacks clarity, re-communication with more specifics needed."
+      }
+    ]
+  },
+  {
+    "text": "Stop micromanaging",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I can handle this on my own. I'll let you know if I need help."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "I work best with some autonomy. I'll keep you updated on my progress."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Independent work style is most effective for this task."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "Reduced oversight is recommended for optimal performance."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Established procedures for task completion should be followed without excessive monitoring."
+      }
+    ]
+  },
+    {
+    "text": "Please hurry and get this done!",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "We need this done ASAP! Can you prioritize it?"
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "Timely completion of this task is crucial. Can you expedite?"
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Expedited completion is requested."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "Prompt attention to this matter is advised to ensure timely completion."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "The established deadlines for this task must be adhered to."
+      }
+    ]
+  },
+{
+    "text": "Stay in your own lane",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "Thanks for the input, but this is my area of responsibility."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "I appreciate your perspective, but I'll be handling this."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "This falls within my designated area of expertise."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "It is recommended that focus be maintained on designated responsibilities."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Adherence to designated roles and responsibilities is expected."
+      }
+    ]
+  },
+  {
+    "text": "I’ve told you this multiple times",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I've mentioned this repeatedly. Just making sure it's clear."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "As previously discussed on several occasions."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "This has been communicated multiple times."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "It is recommended to review previous communications on this topic."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Refer to prior correspondences regarding this matter."
+      }
+    ]
+  },
+{
+    "text": "I’m not doing your job for you",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I'm happy to help, but this is your responsibility."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "I can't take this on, it's part of your workload."
+
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "This task falls under your area of responsibility."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "Completion of this task is designated to your role."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "This falls under your defined job responsibilities within the organizational structure."
+      }
+    ]
+  },
+ {
+    "text": "We do not need to have a meeting about this",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "Let's just handle this over email."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "An email exchange would be more efficient."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "A meeting is deemed unnecessary for this matter."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "It is recommended to address this issue through alternative communication channels."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Resolution of this issue does not necessitate a formal meeting as per established procedures."
+      }
+    ]
+  },
+{
+    "text": "Did you just take credit for my work?",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "Hey, I did that work. Can you acknowledge my contribution?"
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "I'd appreciate it if you could credit me for my work on this."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Proper acknowledgment for this work is requested."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "It is important to give credit where it is due."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Established protocols for recognizing individual contributions should be adhered to."
+      }
+    ]
+  },
+  {
+    "text": "Google that yourself",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "You can find that information on Google."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "A quick Google search should provide the necessary information."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "It is recommended to consult online resources."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "This information is readily available through public search engines."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Independent research through designated resources is encouraged before seeking assistance."
+      }
+    ]
+  },
+ {
+    "text": "What you are saying does not make sense",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I don't understand what you mean. Can you explain it differently?"
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "I'm having trouble following. Can you clarify?"
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Your explanation requires clarification."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "The explanation provided requires further elucidation for enhanced clarity."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Further clarification and context is required to facilitate comprehensive understanding."
+      }
+    ]
+  },
+  {
+    "text": "I am not paid enough to do this",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "This isn't part of my job description, and I'm not compensated for it."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "This task is outside my current role and compensation."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "This task falls outside the parameters of my current compensation agreement."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "Compensation for this task should be discussed before proceeding."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Appropriate compensation for this additional task, not outlined in the current employment contract needs to be addressed through proper channels."
+      }
+    ]
+  },
+   {
+    "text": "I totally forgot about your email",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "So sorry, I totally spaced on your email! Getting to it now."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "Apologies for the oversight, I'll address your email now."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Your email was inadvertently overlooked, and will be addressed now."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "The email was not reviewed in a timely fashion, and is under review now."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "While regretful for the delay, the email is currently being reviewed and addressed accordingly."
+      }
+    ]
+  },
+{
+    "text": "I’m going to need a whole lot of more information if you want me to do this",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I need more info to get this done. Can you fill me in?"
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "I'll need further information before proceeding with this task."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Additional information is required before task initiation."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "Please furnish the necessary supporting documentation before proceeding."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Commencement of this task requires comprehensive information gathering and procedural adherence."
+      }
+    ]
+  },
+ {
+    "text": "Stop calling me before my workday even starts",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "Please don't call me before I start work."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "My workday begins at [start time], I ask that you refrain from calling before then."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Calls received outside of working hours will not be answered."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "It is recommended that all communication take place during designated working hours."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Adherence to designated communication protocols and established working hours is expected."
+      }
+    ]
+  },
+  {
+    "text": "Check your inbox, I already sent this to you!",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I already sent this. Check your inbox."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "Please review your inbox, the necessary information has been previously sent."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "It is requested that you review previously sent communications."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "The required correspondence is located within your inbox."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Adherence to established communication review practices is recommended."
+      }
+    ]
+  },
+{
+    "text": "I couldn’t care less",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I'm indifferent. Whatever you think is best."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "This does not concern me either way, I defer to your judgment."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "My opinion on this matter is neutral."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "I defer to your expertise and judgement in this matter."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Deference is granted to the appropriate authority in this decision."
+      }
+    ]
+  },
+{
+    "text": "I told you so and now this is your problem",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I warned you about this, now let's figure out how to fix it."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "As I predicted, this requires your attention now."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Resolution of this issue is now your responsibility."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "Rectification of this matter falls under your purview."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Resolution of this matter is assigned to your established role and responsibilities."
+      }
+    ]
+  },
+{
+    "text": "Stop trying to make me do your work!",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I'm not here to do your work for you."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "I'm unable to assist with tasks outside my own responsibilities."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Your work tasks remain your own responsibility."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "Delegation of your assigned tasks is not permitted."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Completion of assigned tasks by the designated individual is expected as per company protocol."
+      }
+    ]
+  },
+{
+    "text": "Try problem solving on your own before you come to me",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "Try figuring it out yourself first, then come to me if you're still stuck."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "Please attempt to resolve this independently before seeking my assistance."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Initial troubleshooting efforts should be undertaken before escalation."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "It is recommended to exhaust all available independent problem-solving avenues before seeking assistance."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Established protocols for problem resolution necessitate initial independent effort before escalation through designated channels."
+      }
+    ]
+  },
+  {
+    "text": "Can you do your job so I don’t have to?",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "Just reminding you to take care of your responsibilities."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "Please address your outstanding tasks."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Completion of your assigned duties is expected."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "Timely execution of your assigned tasks is essential."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Failure to fulfill your assigned responsibilities will necessitate further action."
+      }
+    ]
+  },
+{
+    "text": "If further changes are required do them yourself.",
+    "variations": [
+      {
+        "pdi_range": [0, 20],
+        "text": "I'm done with this.  Make any more changes yourself."
+      },
+      {
+        "pdi_range": [20, 40],
+        "text": "I'm not making further revisions. Please handle any additional changes."
+      },
+      {
+        "pdi_range": [40, 60],
+        "text": "Any further revisions are your responsibility."
+      },
+      {
+        "pdi_range": [60, 80],
+        "text": "It is recommended that you implement any further necessary modifications."
+      },
+      {
+        "pdi_range": [80, 100],
+        "text": "Implementation of any subsequent modifications is designated to your role."
+      }
+    ]
+  }
+]
